@@ -1,4 +1,4 @@
-Github Issues
+TrackerHub
 ======
 
 This is an application to practice integrating against an API. For this you'll be using the GitHub api. 
